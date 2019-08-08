@@ -1,6 +1,3 @@
-// import contact from './contact';
-// import menu from './menu';
-
 const page = () => {
     let body = `<div id="container-fluid">
     <section class="search-form">
