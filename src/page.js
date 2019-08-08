@@ -1,5 +1,5 @@
 const page = () => {
-    let body = `<div id="container-fluid">
+    let body = `<div class="container-fluid">
     <section class="search-form">
         <div class="logo">
             <a href="#"><img src="img/Screenshot from 2019-08-07 06-57-02.png" alt="Allmenus.com"></a>

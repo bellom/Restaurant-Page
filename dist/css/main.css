@@ -1,7 +1,39 @@
-#container-fluid{
+.btn {
+    color: #fff;
+    background: #359AFF;
+    font-size: 18px;
+}
+
+.btn:hover, .btn:focus {
+    background: #359AFF;
+    border-color: #359AFF;
+    color: #fff;
+}
+
+.container-fluid {
     background-color: #0050ad;
     padding: 55px 0 0;
     margin: 0;
+}
+
+.flex-display {
+    width: 60%;
+    margin: auto 172px;
+}
+
+h2 {
+    color: dodgerblue;
+    text-align: center;
+    margin: auto 315px;
+}
+
+.link {
+    background: rgb(221, 225, 230);
+    text-align: center;
+}
+
+.menus {
+    background: #FFF;
 }
 
 .search-form {
@@ -10,35 +42,3 @@
     padding: 0 20px;
 }
 
-.link {
-    background: rgb(221, 225, 230);
-    text-align: center;
-}
-
-
-.menus {
-    background: #FFF;
-}
-
-.flex-display{
-    width: 60%;
-    margin: auto 172px;
-}
-
-h2{
-    color: dodgerblue;
-    text-align: center;
-    margin: auto 315px;
-}
-
-.btn {
-    color: #fff;
-    background: #359AFF;
-    font-size: 18px;
-}
-
-.btn:hover, .btn:focus{
-    background: #359AFF;
-    border-color: #359AFF;
-    color: #fff;
-}

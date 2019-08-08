@@ -1,10 +1,10 @@
-import page from './page';
-import menu from './menu';
-import contact from './contact';
+import page from "./page";
+import menu from "./menu";
+import contact from "./contact";
 
 page();
 
-document.addEventListener('click', function(e){
+document.addEventListener("click", function(e){
 
     if(e.target.id == "menu-btn"){
       menu();
