@@ -22,11 +22,11 @@ const page = () => {
         <div><a href="#" class="col-md-3"><img src="img/san.png" alt=""></a></div>
         <div><a href="#" class="col-md-3"><img src="img/san.png" alt=""></a></div>
     </section>
-</div>`
+</div>`;
 
-    let tbody = document.getElementById('content');
+    let tbody = document.getElementById("content");
     tbody.innerHTML += body;
     return tbody;
-}
+};
 
 export default page;

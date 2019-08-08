@@ -5,10 +5,9 @@ import contact from "./contact";
 page();
 
 document.addEventListener("click", function(e){
-
     if(e.target.id == "menu-btn"){
-      menu();
+        menu();
     } else if(e.target.id =="contact-btn"){
-      contact();
+        contact();
     }
 });
