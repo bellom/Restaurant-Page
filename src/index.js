@@ -1,3 +1,4 @@
+/* global document */
 import page from "./page";
 import menu from "./menu";
 import contact from "./contact";

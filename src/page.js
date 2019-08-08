@@ -1,3 +1,4 @@
+/* global document */
 const page = () => {
     let body = `<div class="container-fluid">
     <section class="search-form">
