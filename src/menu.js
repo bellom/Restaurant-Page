@@ -1,3 +1,6 @@
-const menu = (name) => 'Hi! My name is ' + name;
+function menu() {
+    let menu = document.getElementById("menu-contact");
+    menu.innerHTML = `<div>Rice, Beans, Potatoes</div>`
+}
 
-export default menu
+export default menu;
