@@ -1,0 +1,45 @@
+h2 {
+    color: dodgerblue;
+    margin: auto 315px;
+    text-align: center;
+}
+
+.btn {
+    color: #fff;
+    background: #359AFF;
+    font-size: 18px;
+}
+
+.btn:hover, .btn:focus {
+    background: #359AFF;
+    border-color: #359AFF;
+    color: #fff;
+}
+
+.container-fluid {
+    background-color: #0050ad;
+    margin: 0;
+    padding: 55px 0 0;
+}
+
+.flex-display {
+    margin: auto 172px;
+    width: 60%;
+}
+
+
+.link {
+    background: rgb(221, 225, 230);
+    text-align: center;
+}
+
+.menus {
+    background: #FFF;
+}
+
+.search-form {
+    max-width: 465px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+

@@ -1,0 +1,30 @@
+{
+  "name": "restaurant-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "dev": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bellom/Restaurant-Page.git"
+  },
+  "author": "bellom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bellom/Restaurant-Page/issues"
+  },
+  "homepage": "https://github.com/bellom/Restaurant-Page#readme",
+  "dependencies": {
+    "dev": "^0.1.3",
+    "lodash": "^4.17.15",
+    "webpack": "^4.39.1"
+  },
+  "devDependencies": {
+    "webpack": "^4.39.1",
+    "webpack-cli": "^3.3.6"
+  }
+}
